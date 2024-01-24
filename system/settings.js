@@ -108,7 +108,7 @@ global.qris = 'https://telegra.ph/file/bcb93fafb22f139ff1512.jpg'
 global.email = 'busarderemik@gmail.com'
 global.creator = "6283849469400@s.whatsapp.net"
 global.nomorbot = '-'
-global.nomorown = '6283849469400''
+global.nomorown = '6283849469400'
 global.pairingNumber = ''
 
 // Harga Nokos
