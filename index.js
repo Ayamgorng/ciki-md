@@ -8,6 +8,7 @@ const time = moment.tz('Asia/Jakarta').format("HH:mm:ss")
 const CFonts = require('cfonts')
 const Readline = require('readline')
 const yargs = require('yargs/yargs')
+const keep_alive = require('.keep_alive.js')
 const { color } = require('./lib/color')
 const { say } = CFonts
 const rl = Readline.createInterface(process.stdin, process.stdout)
